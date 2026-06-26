@@ -1,1 +1,1 @@
-print('James sucks a games and Byron is ass at Rocket League')
+print('James is okay at Rocket League')
