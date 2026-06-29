@@ -13,6 +13,9 @@ A simple calculator that performs addition, subtraction, multiplication, and div
 ### To-Do List
 A command-line to-do list app that lets users add, view, and delete tasks. Tasks are saved to a file so they persist after closing the program.
 
+### File Organizer
+A Python script that automatically organizes files in a folder by sorting them into subfolders based on file extension (e.g. PDFs, images, text files).
+
 ## Tools Used
 - Python
 - Git/GitHub
