@@ -1,7 +1,7 @@
 import os
 import shutil
 
-folder_path = 'C:/Users/msan1/Downloads'  # Replace with the path to your Downloads folder
+folder_path = 'C:/Users/msan1/Downloads'  # Replace with the path to your Downloads folder. Meaning replace (msan1) with your downlaod for the code to work.
 
 files = os.listdir(folder_path)
 
